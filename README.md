@@ -1,4 +1,13 @@
-*Olá! Me Chamo Danilo 🧑‍💻*
+<div align="center">
+      Olá ! Me Chamo Danilo 👋
+</div>
+
+---------
+- *Atualmente estou aprendendo a linguagem Python*🧑‍💻
+
+- *Construindo uma nova carreira como Dev*🌱
+
+- *Em busca de aprimorar meus conhecimentos*💡
 
 <div align="center">
   <a href="https://github.com/DaniloOliveira35">
